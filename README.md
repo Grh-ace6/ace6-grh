@@ -18,7 +18,7 @@ Dar exemplos
 
 ### 🔧 Instalação
 
-No momento atual apenas localhost. Execute o consuming.py e você terá os 
+No momento atual apenas localhost. Execute o consuming.py e você terá os pdfs baixados.
 
 ```
 pip install requests
@@ -29,6 +29,7 @@ pip install os
 
 * [ReactJS](https://react.dev) 
 * [Python](https://www.python.org)
+* [MySQL](https://www.mysql.com)
 
 ## 📌 Versão
 
