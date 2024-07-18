@@ -28,9 +28,7 @@ pip install os
 ## 🛠️ Construído com
 
 * [ReactJS](https://react.dev) 
-* [Python](https://www.python.org)
-* [MySQL](https://www.mysql.com)
-* [SpringBoot]([https://www.mysql.com](https://spring.io/projects/spring-boot))
+* [Python](https://www.python.org)* 
 
 ## 📌 Versão
 
