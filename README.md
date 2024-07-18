@@ -28,7 +28,7 @@ pip install os
 ## 🛠️ Construído com
 
 * [ReactJS](https://react.dev) 
-* [Python](https://www.python.org)* 
+* [Python](https://www.python.org)
 
 ## 📌 Versão
 
